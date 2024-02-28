@@ -1,7 +1,7 @@
 import axios from "axios";
 
 
-const API_URL = `http://localhost:5000/api/products/`;
+const API_URL = `https://invent-manager-7.onrender.com/api/products/`;
 
 // Create New Product
 const createProduct = async (formData) => {

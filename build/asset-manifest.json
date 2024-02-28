@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/invent-front/static/css/main.80f8de28.css",
+    "main.js": "/invent-front/static/js/main.be1bbe89.js",
+    "static/media/inv-img.png": "/invent-front/static/media/inv-img.88b2acec73355d47e6f0.png",
+    "static/media/loader.gif": "/invent-front/static/media/loader.9d11df4bdd0bb34de773.gif",
+    "index.html": "/invent-front/index.html",
+    "main.80f8de28.css.map": "/invent-front/static/css/main.80f8de28.css.map",
+    "main.be1bbe89.js.map": "/invent-front/static/js/main.be1bbe89.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80f8de28.css",
+    "static/js/main.be1bbe89.js"
+  ]
+}
