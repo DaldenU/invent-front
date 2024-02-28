@@ -18,7 +18,7 @@ const Contact = () => {
   const sendEmail = async (e) => {
     e.preventDefault();
     try {
-      const response = await axios.post(`https://invent-manager-6.onrender.com/api/contactus`, data);
+      const response = await axios.post(`https://invent-manager.onrender.com/api/contactus`, data);
       setSubject("");
       setMessage("");
       toast.success(response.data.message);
